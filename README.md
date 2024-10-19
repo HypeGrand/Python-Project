@@ -37,19 +37,7 @@ This file contains a collection of basic Python functions. It's perfect for begi
 
 Alien Invasion is a clone of a popular arcade game with the same name. This project was built to enhance my Python programming skills by following the "Python Crash Course" book. It's a fun and engaging game that challenges players to defend Earth from waves of alien invaders!
 
-### Requirements
-
-- **Python 3.x+**
-- **Pygame**
-
-### Controls
-
-- **Spacebar**  
-  Shoot bullets
-- **Left/Right arrow keys**  
-  Move the spaceship left or right
-
-## What I Learned
+### What I Learned
 
 In the **Alien Invasion** project, I learned key programming and game development skills:
 
@@ -77,3 +65,16 @@ In the **Alien Invasion** project, I learned key programming and game developmen
 - **Documentation**: I wrote this README to explain my project clearly to others.
 
 This project helped me understand the basics of Python, game development, and efficient coding practices.
+
+### Requirements
+
+- **Python 3.x+**
+- **Pygame**
+
+### Controls
+
+- **Spacebar**  
+  Shoot bullets
+- **Left/Right arrow keys**  
+  Move the spaceship left or right
+
