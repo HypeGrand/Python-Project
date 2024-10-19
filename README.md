@@ -35,6 +35,8 @@ This file contains a collection of basic Python functions. It's perfect for begi
 
 ## AlienInvansion
 
+![image](https://github.com/user-attachments/assets/402913a5-1afe-44bb-8f55-cee82e2219ca)
+
 Alien Invasion is a clone of a popular arcade game with the same name. This project was built to enhance my Python programming skills by following the "Python Crash Course" book. It's a fun and engaging game that challenges players to defend Earth from waves of alien invaders!
 
 ### What I Learned
